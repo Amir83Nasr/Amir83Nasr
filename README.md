@@ -55,7 +55,6 @@
 
 <!-- Fox -->
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='35%'>
-<div align="left">
 
 <!-- [![Amir83Nasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir83Nasr)](https://github.com/Amir83Nasr/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=Amir83Nasr" width="60%" align="left">
