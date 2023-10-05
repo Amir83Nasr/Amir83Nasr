@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/amulifts">
     <img src="https://komarev.com/ghpvc/?username=Amir83Nasr&color=101010" alt="Profile views" />
   </a>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/Amir83Nasr/">
     <img src="https://img.shields.io/badge/-Amir83Nasr-101010?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Amir83Nasr/" alt="LinkedIn" />
   </a>
-</p>
+</p> -->
 <div>
   
 ## 📊 &nbsp;GitHub Stats
