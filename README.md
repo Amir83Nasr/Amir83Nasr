@@ -35,20 +35,3 @@
   </a>
   </div>
 </div>
- 
-<div>
-
-## 🔥 &nbsp;Streak Stats
-  
-  <p align="center">
-  <a href="https://github.com/amulifts">
-    <img alt="Aman Khadka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amulifts&fire=pink&theme=vue-dark&background=0D1117&hide_border=true"/>
-  </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/amulifts">
-     <img alt="snake contribution" src="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.gif"/>
-      </a>
-    </p>
-
