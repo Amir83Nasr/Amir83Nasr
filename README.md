@@ -54,11 +54,11 @@
 <br><hr>
 
 <!-- Fox -->
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='36%'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='35%'>
 <div align="left">
 
 <!-- [![Amir83Nasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir83Nasr)](https://github.com/Amir83Nasr/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Amir83Nasr" width="61%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Amir83Nasr" width="60%" align="left">
 
 <!-- <a  href="https://github.com/Amir83Nasr">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="33%">
