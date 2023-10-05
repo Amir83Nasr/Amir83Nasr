@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)<br><br>
+![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 <div align="center">
-<h3>👨🏻‍💻 Languages & Frameworks & Tools & Abilities </h3><br>
+<h3>👨🏻‍💻 Languages & Frameworks & Tools & Abilities </h3>
 <a href="" target="_blank"><img alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="" target="_blank"><img alt="Basj" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
@@ -19,10 +19,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-</div><br>
+</div>
 
 <!--📏LINE-->
-<br><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -51,15 +51,15 @@
 </a>
 </p>
 
-<br><hr>
-
+<hr>
 <!-- Fox -->
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='26%'>
 <div align="left">
 <a  href="https://github.com/Amir83Nasr">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="33%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33%">
-</a><hr>
+</a>
+<hr>
 
 <!--🦶FOOTER--> 
 <!-- <br><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"> -->
