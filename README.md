@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=101010&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Aman+Khadka.;Nice+to+meet+you!&center=true&size=30">
   </a>
@@ -16,14 +16,14 @@
     <img src="https://img.shields.io/badge/-Amir83Nasr-101010?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Amir83Nasr/" alt="LinkedIn" />
   </a>
 </p>
-<div> -->
+<div>
   
 ## 📊 &nbsp;GitHub Stats
 
   <div>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
-</p>
+</p> -->
 </div>
   
   <div align="center">
