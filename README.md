@@ -33,11 +33,11 @@
 
 <p align="center">
 <a href="https://github.com/Amir83Nasr/Weblog">
-<img width='46%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Amir83Nasr&repo=Weblog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='46%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Amir83Nasr&repo=Weblog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Amir83Nasr/DrumKit">
-<img width='46%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir83Nasr&repo=DrumKit&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='46%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir83Nasr&repo=DrumKit&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
 </a>
 </p>
 
@@ -54,12 +54,17 @@
 <br><hr>
 
 <!-- Fox -->
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='26%'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='36%'>
 <div align="left">
-<a  href="https://github.com/Amir83Nasr">
+
+<!-- [![Amir83Nasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir83Nasr)](https://github.com/Amir83Nasr/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Amir83Nasr" width="61%" align="left">
+
+<!-- <a  href="https://github.com/Amir83Nasr">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="33%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33%">
-</a><hr>
+</a>-->
+<hr>
 
 <!--🦶FOOTER--> 
 <!-- <br><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"> -->
