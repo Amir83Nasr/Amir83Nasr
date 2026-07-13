@@ -1,7 +1,3 @@
-<h2 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Amir+Hossein+ Nasrollahi&center=true&size=28">
-</h2>
-
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 <div align="center">
@@ -19,9 +15,3 @@
 <img alt="React" align="center" width ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg">
 <img alt="React" align="center" width ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg">
 </div>
-
-<!-- Fox -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Amir83Nasr" width="50%" > -->
-
-<!-- <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="32%"> -->
